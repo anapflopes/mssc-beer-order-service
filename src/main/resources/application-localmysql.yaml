@@ -24,6 +24,10 @@ spring:
       ddl-auto: update
     database: mysql
 
+  artemis:
+    user: artemis
+    password: simetraehcapa
+
 # Enable logging for config troubleshooting
 logging:
   level:
